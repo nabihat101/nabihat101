@@ -19,4 +19,6 @@ Data analysis and visualization project exploring relationships between species 
 
 ##  Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/nabiha-tariq1/) • [Portfolio](https://nabihat101.github.io/personal-website/)
+[LinkedIn](https://www.linkedin.com/in/nabiha-tariq1/) 
+
+[Portfolio](https://nabihat101.github.io/personal-website/)
