@@ -11,9 +11,6 @@ Python, Java, SQL,  Pandas, NumPy, scikit-learn, FastAPI, JavaScript, Git
 ###  F1 Race Predictor
 Machine learning platform that predicts Formula 1 race outcomes using historical race data, weather, qualifying results, and driver performance.
 
-###  AI Academic Advisor
-A RAG-based AI academic planning tool that retrieves UofT Computer Science course information from a course database and uses the retrieved information to provide relevant course guidance and recommendations.
-
 ###  Species Interaction Visualization
 Data analysis and visualization project exploring relationships between species using graph algorithms and interactive visualizations.
 
